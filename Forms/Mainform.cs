@@ -1,8 +1,8 @@
 namespace Snackgame2
 {
-    public partial class Form1 : Form
+    public partial class Mainform : Form
     {
-        public Form1()
+        public Mainform()
         {
             InitializeComponent();
         }
